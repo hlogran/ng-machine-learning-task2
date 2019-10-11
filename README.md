@@ -8,5 +8,5 @@ This is the solution for the Task 2 of Andrew Ng's Machine Learning Course
 Technologies:
 ======
 - Machine Learning
-- Octave
+- MATLAB / Octave
 
